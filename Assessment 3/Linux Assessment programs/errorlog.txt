@@ -1,0 +1,2 @@
+Tue Feb 24 10:48:57 IST 2026 - ERROR - File 'file1.txt' not found
+Tue Feb 24 10:52:57 IST 2026 - ERROR - File 'file2.txt' not found
